@@ -1,4 +1,6 @@
-## Hi there 👋
+<h2 align="center"> Hi 👋 I'm Shijian </h2>
+
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=shijian2001&theme=default&show_icons=true&hide_border=true" /> </div>
 
 <!--
 **shijian2001/shijian2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
