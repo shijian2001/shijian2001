@@ -1,4 +1,13 @@
-<h2 align="center"> Hi 👋 I'm Shijian </h2>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100">
+</div>
+
+<h2 align="center"> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>  I'm Shijian </h2>
+
+- 🔭 I’m currently a first-year master student and a research beginner
+- 👯 I’m looking to discuss on Data-Centric AI research, especially for LLM/MLLM 
+- 📫 How to reach me: Please mail me at shijian@seu.edu.cn
+- 😄 Still on the way!
 
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=shijian2001&theme=default&show_icons=true&hide_border=true" /> </div>
 
