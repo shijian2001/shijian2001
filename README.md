@@ -1,11 +1,11 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100">
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="150">
 </div>
 
 <h2 align="center"> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>  I'm Shijian </h2>
 
 - 🔭 I’m currently a first-year master student and a research beginner
-- 👯 I’m looking to discuss Data-Centric AI research, especially for LLM/MLLM 
+- 👯 I’m looking to discuss **Data-Centric AI research**, especially for LLM/MLLM 
 - 📫 How to reach me: Please mail me at shijian@seu.edu.cn
 - 😄 Still on the way
 
