@@ -9,9 +9,13 @@
 - 📫 How to reach me: Please mail me at shijian@seu.edu.cn
 - 😄 Still on the way
 
+<div align="center">
+  
 ![](https://raw.githubusercontent.com/shijian2001/shijian2001/output/github-contribution-grid-snake.svg)
 
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=shijian2001&theme=default&show_icons=true&hide_border=true" /> </div>
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shijian2001&theme=gotham)
+
+</div>
 
 <!--
 **shijian2001/shijian2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
